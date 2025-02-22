@@ -1,0 +1,3 @@
+from .GLNet import GLNet
+
+

@@ -6,7 +6,7 @@ GLNet Official Implementation of "[GLNet: Camouflaged Instance Segmentation from
 
 Chen Li
 
-[[Paper]](); [[Project Page]]()
+[[Paper]](https://ieeexplore.ieee.org/document/10432940); [[Project Page]]()
 
 **Contact:** lichen_email@126.com
 
